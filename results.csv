@@ -1,0 +1,13 @@
+Map,Algorithm,Time(s),Nodes Expanded,Path Length,Total Cost,Found
+map.txt,a_star,,30,15,15.00,Yes
+map.txt,dijkstra,,70,15,15.00,Yes
+map.txt,greedy,,20,17,17.00,Yes
+maze1.txt,a_star,,9,7,7.00,Yes
+maze1.txt,dijkstra,,22,7,7.00,Yes
+maze1.txt,greedy,,7,7,7.00,Yes
+open_space.txt,a_star,,5,5,5.00,Yes
+open_space.txt,dijkstra,,25,5,5.00,Yes
+open_space.txt,greedy,,5,5,5.00,Yes
+blocked.txt,a_star,,1,0,-,No
+blocked.txt,dijkstra,,1,0,-,No
+blocked.txt,greedy,,1,0,-,No

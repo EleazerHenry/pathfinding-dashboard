@@ -1,0 +1,30 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter / Streamlit artifacts
+.ipynb_checkpoints/
+*.streamlit/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs and generated files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Results and runtime outputs
+results.csv
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Excel or PDF exports
+*.xlsx
+*.pdf
