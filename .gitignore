@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python cache files
 __pycache__/
 *.py[cod]
@@ -28,3 +29,35 @@ env/
 # Excel or PDF exports
 *.xlsx
 *.pdf
+=======
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter / Streamlit artifacts
+.ipynb_checkpoints/
+*.streamlit/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs and generated files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Results and runtime outputs
+results.csv
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Excel or PDF exports
+*.xlsx
+*.pdf
+>>>>>>> 5f91099d21a4c2a8547005d9489a34266be65288
